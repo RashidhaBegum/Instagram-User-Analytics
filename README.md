@@ -1,7 +1,7 @@
 # Instagram-User-Analytics
 ## Description:
 User analysis involves tracking how users engage with a digital product, such as a software application or a mobile app. The insights derived from this analysis can be used by various teams within the business. For example, the marketing team might use these insights to launch a new campaign, the product team might use them to decide on new features to build, and the development team might use them to improve the overall user experience.
-In this project, by using SQL and MySQL Workbench as our tool to analyze Instagram user data.Remember, the goal of this project is to use SQL skills to extract meaningful insights from the data. And those findings could potentially influence the future development of one of the world's most popular social media platforms.
+In this project, by using SQL and MySQL workbench as our tool to analyze Instagram user data.Remember, the goal of this project is to use SQL skills to extract meaningful insights from the data. And those findings could potentially influence the future development of one of the world's most popular social media platforms.
 ### SQL Tasks :
 ### A) Marketing Analysis:
 1.Loyal User Reward: The marketing team wants to reward the most loyal users, i.e., those who have been using the platform for the longest time.
@@ -58,7 +58,7 @@ The analysis uncovered key insights into user behavior and engagement, guiding s
 Results:
 
 The project successfully provided actionable insights for various stakeholders, contributing to the app's evolution and user experience enhancement.
-Drive Link :
+
 ### Drive Link
 [Click here to access the Instagram User Analytics Report](https://drive.google.com/file/d/1PX-z9AmwxpMNLHNjr5qT3YMDFO6Oes7u/view?usp=sharing)
 
