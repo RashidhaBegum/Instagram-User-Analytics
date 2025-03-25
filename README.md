@@ -32,13 +32,13 @@ Your Task: Calculate the average number of posts per user on Instagram. Also, pr
 2.Bots & Fake Accounts: Investors want to know if the platform is crowded with fake and dummy accounts.
 
 Your Task: Identify users (potential bots) who have liked every single photo on the site, as this is not typically possible for a normal user.
-### How to Proceed 
+### How to Proceed :
 1.Database Creation: Start by running the provided commands to create the necessary database for the project. 
 
 2.Perform Analysis:  Use SQL queries to extract the required information from the database, ensuring the accuracy and efficiency of the queries.
 
 3.Report Preparation: Compile your findings into a report in PDF or PowerPoint format,including SQL queries and outputs
-### Project Details
+### Project Details :
 Project Description :
 
 This project focuses on analyzing Instagram user behavior and engagement metrics to derive actionable insights for business and marketing decisions using SQL and MySQL.
